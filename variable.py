@@ -23,4 +23,16 @@ print( "Hello " + concatination)
 sentence = "Apple"
 print(sentence   + " a  day " + " keeps the " + " doctor away")
 
+#if , else
+
+firstnumber = int(input("enter the first number "))
+secondnumber = int(input("enter the second number "))
+
+if firstnumber==secondnumber:
+    print("its same")
+
+else :
+    print("its not same")
+        
+
 
